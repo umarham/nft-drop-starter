@@ -1,0 +1,19 @@
+{
+    "name": "SIMBA2",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "5Hc1YYhq4H2yAyLWnvhH4ZS1TbajqzP9e4uxFWG9yFtA",
+          "share": 100
+        }
+      ]
+    }
+  }
